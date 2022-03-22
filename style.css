@@ -61,7 +61,7 @@ body {
 }
 
 #button:hover {
-    outline: 5px solid purple;
+    outline: 6px solid purple;
     outline-offset: 5px;
 }
 
